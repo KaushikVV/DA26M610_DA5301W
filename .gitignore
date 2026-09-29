@@ -1,0 +1,6 @@
+DA5301W/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
