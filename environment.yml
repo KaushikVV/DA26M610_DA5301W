@@ -1,0 +1,8 @@
+name: DA26M610_DA5301W
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - scipy
+  - numpy
+prefix: C:\Users\kaush\miniconda3\envs\DA26M610_DA5301W
