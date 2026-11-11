@@ -1,0 +1,9 @@
+name: assignment-2
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - jupyter
+  - matplotlib
+  - networkx
+  - numpy
